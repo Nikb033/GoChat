@@ -1,0 +1,23 @@
+# Compiled Java classes
+*.class
+
+# SQLite database (contains user data)
+*.db
+
+# Downloaded files from the app
+downloads/
+
+# macOS junk
+.DS_Store
+__MACOSX/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.iws
+*.ipr
+
+# Build output
+out/
+build/
