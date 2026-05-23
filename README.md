@@ -1,8 +1,8 @@
 ##  Authors
-*   **Amaan Mithani** (am14647)
 *   **Nikhil Bhise** (nb4053)
 *   **Kunaal Vadgama** (kv2343)
-
+*   **Amaan Mithani** (am14647)
+  
 ## Loom Video Link: 
 https://www.loom.com/share/226493beee944d729a8bd97f083212f4
 
